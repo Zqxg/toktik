@@ -14,7 +14,6 @@
 + 安装consul（[安装教程](https://developer.hashicorp.com/consul/downloads)） 测试
 
 ## 项目结构
-(还未修改)
 ```
 |
 |-- bin             // 编译后程序的可运行文件    
